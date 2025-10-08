@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 🎓 B.Tech in **Computer Engineering** @ [MBIT, CVM University](https://www.mbit.edu.in/) (2024 - 2028)  
 - 💻 Passionate about **Rust, Web Development, AI Agents, and Network Security**  
-- 🏆 Hackathon Participant → Winner @ Tech Trek | Finalist @ CVMU Hackathon | Top 75 @ Odoox Hackathon  
+- 🏆 Hackathon Participant → Winner @ IntelliHack 25' | Finalist @ CVMU Hackathon | Top 75 @ OdooxCharusat Hackathon  
 - 🔥 Projects in pipeline:  
   - 🚖 **Ride-Hauling SaaS**  
   - 🕹 **flameNGen** → Visual Scripting Game Engine  
@@ -53,10 +53,8 @@
 
 ### 📂 Featured Projects
 - 🔥 **[ved-db-server](https://github.com/Mihir-Rabari/ved-db-server)** → High-performance in-memory **Rust key-value database server**  
-- ⚡ **[VedDB Rust Client](https://github.com/Mihir-Rabari/ved-db-client)** → Async Rust client library + CLI for VedDB  
-- 🌐 **[VedDB Web UI](https://github.com/Mihir-Rabari/ved-db-website)** → Web-based interface to interact with VedDB  
+- ⚡ **[VedDB Rust Client](https://github.com/Mihir-Rabari/ved-db-client)** → Async Rust client library + CLI for VedDB
 - 🐶 **[CodeDog](https://github.com/Mihir-Rabari/code-dog)** → AI-powered Supply Chain Threat Detection (JavaScript/Node)  
-- 📝 **[quick-desk-odoo](https://github.com/Mihir-Rabari/quick-desk-odoo)** → Odoo front-end system (TypeScript/JS)  
 - 🔖 **[Bookmarks Hub Full-Stack](https://github.com/Mihir-Rabari/bookmarks-hub-full-stack)** → Online bookmarks manager (Express + MongoDB)  
 
 ---
