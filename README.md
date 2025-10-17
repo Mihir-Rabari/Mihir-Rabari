@@ -146,9 +146,3 @@ All this chaos was summoned from my GitHub [github.com/Mihir-Rabari](https://git
 <p align="center">
   <img src="./bottom-badge.svg" alt="signed badge" />
 </p>
-
----
-<!-- Usage notes -->
-> **Install:** Create a repo named the same as your GitHub username (e.g. `Mihir-Rabari`) and drop these files in root: `README.md`, `header.svg`, `bottom-badge.svg`, `divider.svg`.  
-> **GIFs & project previews:** Add `gif-projects-strip.gif` if you want a project carousel.  
-> **Tip:** GitHub allows inline SVG images from your repo. If some animations get stripped, host the SVGs via GitHub Pages or a raw.githubusercontent link.
